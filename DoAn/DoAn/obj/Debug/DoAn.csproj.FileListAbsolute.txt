@@ -1,0 +1,122 @@
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.FormUser.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLUser.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.btnThemKH.resources
+D:\HocThem\C#_Winform\DoAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.btnXoaKH.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.FormUser.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKH.resources
+D:\HK5\DoAn_DocNet\doAn_DocNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKS.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKH.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKS.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDV.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDKT.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDBD.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLPT.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLNV.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLLKS.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLHoaDon.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLTours.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDD.resources
+D:\HK5\doannew\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.UserControllers.TTUser.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDBD.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDD.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDV.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKH.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKS.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDKT.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLLKS.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLNV.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLPT.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLHoaDon.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLTours.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.UserControllers.TTUser.resources
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\Admin\Documents\Zalo Received Files\doAn_DotNet\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDBD.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDD.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDV.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKH.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKS.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDKT.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLLKS.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLNV.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLPT.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLHoaDon.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLTours.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.UserControllers.TTUser.resources
+D:\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDBD.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDD.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDV.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKH.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLKS.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLDKT.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLLKS.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLNV.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLPT.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLHoaDon.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.AdminControllers.QLTours.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.FormAdmin.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\doAn_DotNet\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
